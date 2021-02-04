@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Author: Jordan Taylor
+ * Date: 02 / 04 / 2021
+ * Description: Creates shapes from the factory.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
